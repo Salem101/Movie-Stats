@@ -5,6 +5,7 @@ Input Files:
 * In the csv files replaced "|" with "," to separate the genres and additionally removed "-" from all "sci-fi"
 
 Storing data as key-value pairs using the Hashmap data structure: 
+* Created dictionary interface 
 * Dictionary ADT (Abstract Data Structure) use: 
   put(key, value) to add the key with the value to the dictionary.
   remove(dictionary, key) to remove a key with it's associated value
