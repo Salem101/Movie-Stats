@@ -6,6 +6,7 @@ Input Files:
 
 Storing data as key-value pairs using the Hashmap data structure: 
 * Created dictionary interface 
+ Used hashmap to store values
 * Dictionary ADT (Abstract Data Structure) use: 
   put(key, value) to add the key with the value to the dictionary.
   remove(dictionary, key) to remove a key with it's associated value
